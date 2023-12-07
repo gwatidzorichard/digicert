@@ -41,5 +41,5 @@ The API has the following endpoints in the controller
 ## Running the application
 
 1. A postman collection has been added in the resources package.
- 
+
 

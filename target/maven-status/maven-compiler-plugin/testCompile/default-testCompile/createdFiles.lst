@@ -1,0 +1,3 @@
+com\digicert\hotel\booking\BookingApplicationTests.class
+com\digicert\hotel\booking\service\impl\ReservationServiceImplTest.class
+com\digicert\hotel\booking\controller\ReservationControllerTest.class

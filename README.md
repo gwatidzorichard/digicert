@@ -41,5 +41,7 @@ The API has the following endpoints in the controller
 ## Running the application
 
 1. A postman collection has been added in the resources package.
- 
+2. On the APIs it is best to start by running the createFromAgency which creates bulk number of reservations before testing other endpoints since 
+   I had limited time to implement all the necessary error handling. This is also because I used the H2 database which is volatile hence it does not store data permanently. 
+3. 
 
